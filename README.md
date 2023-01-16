@@ -1,2 +1,1 @@
-# how-to-sort-the-items-based-on-date-time-along-with-groups-in-.net-maui-listview
-This example demonstrates how to sort the items based on date time along with the groups in .NET MAUI ListView
+**[View document in Syncfusion Xamarin.Forms Knowledge Base](https://www.syncfusion.com/kb/13832/how-to-sort-the-items-by-datetime-property-along-with-grouping-in-net-maui-sflistview)**
